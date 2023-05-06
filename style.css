@@ -4,3 +4,12 @@
     height: auto;
     margin: 0 auto;
   }
+#ul {
+  text-align: center;
+}
+#header{
+  text-align: center;
+}
+body{
+  background-color: grey;
+}
